@@ -16,6 +16,7 @@ function merge(left, right) {
 			results.push(right[j]);
 			j++;
 		} else if (j === right.length || left[i] <= right[j]) {
+			// i is the only index left
 			results.push(left[i]);
 			i++;
 		} else {
