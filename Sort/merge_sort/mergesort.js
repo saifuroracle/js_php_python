@@ -37,8 +37,8 @@ function merge(left, right) {
 	};
 
 	var mid = Math.floor(arr.length/2);
-	var arrL = arr.slice(0, mid);
-	var arrR = arr.slice(mid, arr.length);
+	var arrL = arr.slice(0, mid);          // 0 to mid-1 => new array
+	var arrR = arr.slice(mid, arr.length); // mid to length-1 => new array
 	
 	return merge(mergeSort(arrL), mergeSort(arrR));
 }
