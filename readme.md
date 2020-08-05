@@ -1,5 +1,5 @@
 # Algorithms
-To learn and practise most common algorithms like sorting, searching, hashing etc.
+To learn and practise most common algorithms like sorting, searching, hashing etc in JavaScript and PHP programming languages.
 
 ## Requirement 
 ```
