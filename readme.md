@@ -20,6 +20,6 @@ node .\Search\binary_search.js
 
 ## Algorithms
 ### Sort
-- Merge Sort
+- Merge Sort - O(n log n)
 ### Search
-- Binary Search
+- Binary Search - O(log n)
