@@ -1,3 +1,6 @@
+# Algorithms
+To learn and practise most common algorithms like sorting, searching, hashing etc.
+
 ## Requirement 
 ```
 node install
