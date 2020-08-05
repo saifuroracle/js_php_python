@@ -1,4 +1,4 @@
-# Algorithms
+# Algorithms in JS & PHP
 To learn and practise most common algorithms like sorting, searching, hashing etc in JavaScript and PHP programming languages.
 
 ## Requirement 
