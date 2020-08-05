@@ -6,6 +6,7 @@ node install
 ### JS
 ```
 node .\Sort\mergesort.js
+node .\Search\binary_search.js
 ```
 ### PHP
 ```
