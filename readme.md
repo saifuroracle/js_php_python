@@ -13,4 +13,7 @@ node .\Sort\mergesort.js
 ```
 
 ## Algorithms
+### Sort
 - Merge Sort
+### Search
+- Binary Search

@@ -1,9 +1,39 @@
 // caller
 var array = [5, 1, 2, 3, 4, 6]
-console.log(mergeSort(array))
+console.log(binarySearch(array, 6))
 
 // main algorithm code
 // main algorithm code
+function binarySearch(array, searchNumber) {
+    arr = mergeSort(array)
+
+    if (recursiveFunction(arr, searchNumber, 0, arr.length - 1))
+        return 'Found'
+    else
+        return 'Not found'
+}
+
+function recursiveFunction(arr, searchNumber, start, end) {
+
+    // Base Condition 
+    if (start > end) return false;
+
+    // Find the middle index 
+    let mid = Math.floor((start + end) / 2);
+
+    // Compare mid with given key searchNumber 
+    if (arr[mid] === searchNumber) return true;
+
+    // If element at mid is greater than searchNumber, 
+    // search in the left half of mid 
+    if (arr[mid] > searchNumber)
+        return recursiveFunction(arr, searchNumber, start, mid - 1);
+    else
+
+    // If element at mid is smaller than searchNumber, 
+    // search in the right half of mid 
+        return recursiveFunction(arr, searchNumber, mid + 1, end);
+}
 
 // Merge takes two sorted arrays (left, right) and
 // returns one array which contains the sorted numbers
