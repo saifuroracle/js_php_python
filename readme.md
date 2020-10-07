@@ -10,8 +10,8 @@ node install
 
 ### JS
 ```
-node .\Sort\mergesort.js
-node .\Search\binary_search.js
+node .\js\algorithms\Sort\mergesort.js
+node .\js\algorithms\Search\binary_search.js
 ```
 ### PHP
 ```

@@ -5,3 +5,5 @@ var fullName = function (firstName, lastName) {
 } 
 
 console.log(fullName('saifur', 'rahman'))
+
+// saifur rahman
