@@ -5,9 +5,12 @@ function greetings()
 
 function promise_log()
 {
-    setTimeout(() => {
-        console.log('this is 3 seconds promise - this should be first')
-    }, 3000);
+    console.log('this is 3 seconds promise - this should be first')
+    console.log('this is 3 seconds promise - this should be first')
+    console.log('this is 3 seconds promise - this should be first')
+    console.log('this is 3 seconds promise - this should be first')
+    console.log('this is 3 seconds promise - this should be first')
+    console.log('this is 3 seconds promise - this should be first')
 }
 
 async function promise() 
