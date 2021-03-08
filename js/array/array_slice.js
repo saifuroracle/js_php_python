@@ -11,5 +11,8 @@ console.log(arr_slice)
 // arr[2]=3
 // arr[3]=4
 // arr[4]=5
-// arr[5]=6
+// arr[5]=6 
+
+// start = 0 
+// end = arr[5] is exclusive and not included
 

@@ -14,3 +14,5 @@ console.log(arr)  // after removed items, remaining items
 // arr[4]=5
 // arr[5]=6
 
+// start = 0 
+// end = arr[5] is included
