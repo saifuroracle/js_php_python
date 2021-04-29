@@ -23,3 +23,12 @@ node .\js\algorithms\Search\binary_search.js
 - Merge Sort - O(n log n)
 ### Search
 - Binary Search - O(log n)
+
+
+# python
+
+## how to run
+
+```
+ Use "Shift + Enter " to run a cell, the output will be shown in the interactive window
+```
