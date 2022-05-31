@@ -25,7 +25,7 @@ node .\js\algorithms\Search\binary_search.js
 - Binary Search - O(log n)
 
 ### Topics
-1. Summation of n numbers
+1. Summation of n numbers - O(3)
 2. 
 
 # python
