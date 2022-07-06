@@ -1,4 +1,4 @@
-# Algorithms in JS & PHP
+# Algorithms in JS, PHP & PYTHON
 To learn and practise most common algorithms like sorting, searching, hashing etc in JavaScript and PHP programming languages.
 
 ## Requirement 
@@ -24,6 +24,9 @@ node .\js\algorithms\Search\binary_search.js
 ### Search
 - Binary Search - O(log n)
 
+### Topics
+1. Summation of n numbers - O(3)
+2. 
 
 # python
 
