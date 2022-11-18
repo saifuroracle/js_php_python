@@ -12,6 +12,7 @@ node install
 ```
 node .\js\algorithms\Sort\mergesort.js
 node .\js\algorithms\Search\binary_search.js
+node js/algorithms/LinkedList/index.js
 ```
 ### PHP
 ```
